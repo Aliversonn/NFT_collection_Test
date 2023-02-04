@@ -32,5 +32,8 @@
         "awesome-readme": "^0.0.8",
         "prettier": "^2.7.1",
         "prettier-plugin-solidity": "^1.0.0-beta.24"
+    },
+    "dependencies": {
+        "foundry-test-utility": "^0.0.7"
     }
 }

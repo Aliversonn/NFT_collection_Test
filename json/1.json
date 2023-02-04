@@ -1,0 +1,10 @@
+{
+    "name": "Daemon #1",
+    "image": "ipfs://bafybeifn7bxdh2vy545usx3hgtcg5t6vyi6oi3w476promfwdcfnnsumnu/NFT1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Daemon King"
+      }
+    ]
+  }
