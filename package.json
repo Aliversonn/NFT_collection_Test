@@ -36,6 +36,8 @@
         "prettier-plugin-solidity": "^1.0.0-beta.24"
     },
     "dependencies": {
+        "alchemy-sdk": "^2.4.1",
+        "dotenv": "^16.0.3",
         "foundry-test-utility": "^0.0.7"
     }
 }
